@@ -6,7 +6,6 @@ This project analyzes the **100 most-watched anime dataset** to uncover populari
 ## 📂 Files Included
 - `anime_analysis.ipynb` → Jupyter Notebook with full analysis.
 - `most_watched_anime_dataset_100_entries.csv` → Dataset used for analysis.
-- `visuals/` → Folder containing generated visualizations.
 
 ## 📊 Key Findings
 - Top 10 most-watched anime globally.
